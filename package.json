@@ -1,0 +1,26 @@
+{
+  "name": "choiceofsettlement",
+  "version": "1.0.0",
+  "description": "`npm install` `npm i nodemon -g` `nodemon -L index.js`",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "telegraf": "^4.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon -L index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garik-code/choiceOfSettlement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garik-code/choiceOfSettlement/issues"
+  },
+  "homepage": "https://github.com/garik-code/choiceOfSettlement#readme"
+}
